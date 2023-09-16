@@ -1,1 +1,1 @@
-https://github.com/livanalba0861/Instragram-photo-feed-exercise
+https://livanalba0861.github.io/Instragram-photo-feed-exercise/
